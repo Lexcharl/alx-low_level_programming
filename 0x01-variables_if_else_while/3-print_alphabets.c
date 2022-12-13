@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * main - returns alphabets both lower and upper cases
+ * main - returns alphabets
  *
  * Return: Always 0 (Success)
  */
